@@ -1,2 +1,2 @@
 AI PRACTICALS CODES 
-language used: PYTHON ONLY
+language used: PYTHON
